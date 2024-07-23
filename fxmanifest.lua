@@ -7,5 +7,5 @@ description 'Jxnnzk - Train'
 version '0.1.0'
 
 client_script {
-	'client/main.lua'
+	'client.lua'
 } 
