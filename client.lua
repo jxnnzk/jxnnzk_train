@@ -1,0 +1,5 @@
+Citizen.CreateThread(function()
+  SwitchTrainTrack(0, true)
+  SwitchTrainTrack(3, true)
+  SetRandomTrains(1)
+end)
